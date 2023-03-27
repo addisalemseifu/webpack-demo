@@ -1,6 +1,7 @@
 import _ from 'lodash';
 import './style.css';
 
+// This is the compornent fuc
 function component() {
   const element = document.createElement('div');
 
